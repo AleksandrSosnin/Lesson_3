@@ -34,3 +34,10 @@ Git add
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+### Работа с картинками и ссылками
+
+Для того, чтобы добавить картинку, необходимо: ![Картинка](https://n1s1.elle.ru/48/7b/36/487b36300c62c5f0cb905da52aa874b4/728x486_1_30b570c2f6c0da65bb56095068e05768@940x627_0xc0a839a4_18087198581488362059.jpeg)
+
+Для того, чтобы добавить ссылку, необходимо: [Работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+
